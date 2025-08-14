@@ -1,4 +1,4 @@
-('C:\\Users\\Worki\\Desktop\\DiceRollCalculator\\GUI '
+('C:\\Users\\Worki\\Desktop\\DiceProbabilityCalculator\\GUI '
  'Version\\build\\gui\\PYZ-00.pyz',
  [('__future__',
    'C:\\Program '
@@ -93,7 +93,7 @@
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\\Lib\\decimal.py',
    'PYMODULE'),
   ('dice_probability',
-   'C:\\Users\\Worki\\Desktop\\DiceRollCalculator\\GUI '
+   'C:\\Users\\Worki\\Desktop\\DiceProbabilityCalculator\\GUI '
    'Version\\dice_probability.py',
    'PYMODULE'),
   ('dis',

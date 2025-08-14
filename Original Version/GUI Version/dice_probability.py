@@ -10,7 +10,6 @@ def build_distribution(num_dice, sides):
             for face in range(1, sides + 1):
                 new_dist[prev_sum + face] += count
         dist = new_dist
-
     return dist
 
 def chance_to_hit_target(num_dice, sides, target):
